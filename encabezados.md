@@ -3,7 +3,7 @@
 Para crear un **título** o **encabezado**, agregue signos **almohadilla** (**#**) antes de una palabra o frase. 
 La cantidad de **almohadillas** que utilice debe corresponder al nivel del título. 
 
-Por ejemplo, para crear un nivel de título tres (<h3>), utilice tres almohadillas  (p. ej., ### Mi encabezado).
+Por ejemplo, para crear un nivel de título tres \(\<h3\>\), utilice tres almohadillas  (p. ej., ### Mi encabezado).
 
 ![Encabezado_01](encabezados_01.jpg "Niveles de encabezado")
 
