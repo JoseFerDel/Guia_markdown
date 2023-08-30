@@ -1,6 +1,8 @@
 
 # **Guia Markdown**
 
+---
+
 Guia sobre el lenguaje de marcado Markdown.
 
 
@@ -35,3 +37,36 @@ Guia sobre el lenguaje de marcado Markdown.
 * Links
 
 * Caracteres de escape
+
+
+## **SINTAXIS EXTENDIDA**
+
+* Sobre sintaxis extendida
+
+* Tablas
+
+* Bloques de código delimitados
+
+* Resaltado de sintaxis
+
+* Notas a pie de página
+
+* ID de encabezado
+
+* Listas de definiciones
+
+* Tachado
+
+* Listas de tareas
+
+* Emoji
+
+* Destacar
+
+* Subíndice
+
+* Superíndice
+
+* Vinculación URL automática
+
+
