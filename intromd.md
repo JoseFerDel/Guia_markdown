@@ -1,5 +1,5 @@
 
-![MD_logo](/IMG/MD_logo.jpg "Markdown")
+![MD_logo](/IMG/MD_logo.jpeg "Markdown")
 
 # MARKDOWN
 
