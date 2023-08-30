@@ -37,7 +37,7 @@ Las aplicaciones de **Markdown** no se ponen de acuerdo sobre cómo manejar los 
 Para enfatizar el texto con **negrita y cursiva** al mismo tiempo, agregue **tres asteriscos o guiones bajos** antes y después de una palabra o frase. 
 Para poner en **negrita y cursiva** parte de una palabra para darle énfasis agregue **tres asteriscos sin espacios** alrededor de las letras.
 ![enfasis_05](/IMG/enfasis_05.jpg "Negrita y curiva")
-==**Nota:** El orden de las etiquetas em y strong (en HTML) puede invertirse según el procesador Markdown que esté utilizando.==
+**Nota:** El orden de las etiquetas em y strong (en HTML) puede invertirse según el procesador Markdown que esté utilizando.
 
 
 ## **Buenas prácticas de negrita y cursiva (juntas)**

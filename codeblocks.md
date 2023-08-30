@@ -9,7 +9,7 @@ Para crear bloques de código, sangra cada línea del bloque con al menos **cuat
 La salida renderizada se ve así:
 ![codeblocks_02](/IMG/codeblocks_02.jpg "Salida renderizada")
 Nota: Para crear bloques de código sin sangrar líneas, utilice bloques de código delimitados.  
-==Ver →== [Bloques de código delimitados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/codeblocks_delimitados.md)
+**Ver →** [Bloques de código delimitados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/codeblocks_delimitados.md)
 
 
 ## **Palabra o frase como código** 
