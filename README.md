@@ -24,9 +24,9 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Énfasis (negrita y cursiva)](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/enfasis.md)
 
-* Citas
+* [Citas](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/citas.md)
 
-* Listas
+* [Listas](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/listas.md)
 
 * Bloques de código
 
