@@ -9,18 +9,18 @@ Para crear bloques de código, sangra cada línea del bloque con al menos **cuat
 La salida renderizada se ve así:
 ![codeblocks_02](/IMG/codeblocks_02.jpg "Salida renderizada")
 Nota: Para crear bloques de código sin sangrar líneas, utilice bloques de código delimitados.
-Ver → Bloques de código delimitados
+==Ver →== Bloques de código delimitados
 
 
 ## **Palabra o frase como código** 
 
-Para indicar una palabra o frase como código, escríbala entre **acentos abiertos** \(**\<**\).
+Para indicar una palabra o frase como código, escríbala entre **acentos abiertos** \(**\`**\).
 ![codeblocks_03](/IMG/codeblocks_03.jpg "Palabra o frase como código")
 
 
 ## **Escapar comillas invertidas**
 
-Si la palabra o frase que desea indicar como código incluye uno o más **acentos abiertos** \(**\`**\), puede escaparla encerrando la palabra o frase entre acentos abiertos invertidos  \(**\`\`**\).
+Si la palabra o frase que desea indicar como código incluye uno o más **acentos abiertos** \(**\`**\), puede escaparla encerrando la palabra o frase entre acentos abiertos dobles \(**\`\`**\).
 ![codeblocks_04](/IMG/codeblocks_04.jpg "Escapar acentos abiertos")
 
 
