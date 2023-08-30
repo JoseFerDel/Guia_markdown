@@ -1,3 +1,6 @@
+[ÍNDICE](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/intromd.md)
+
+
 # **Encabezados**
 
 Para crear un **título** o **encabezado**, agregue signos **almohadilla** (**#**) antes de una palabra o frase. 

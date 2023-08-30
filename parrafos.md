@@ -1,3 +1,6 @@
+[ÍNDICE](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/intromd.md)
+
+
 # **Párrafos**
 
 Para crear **párrafos**, utilice **una línea en blanco** para separar una o más líneas de texto.
