@@ -1,4 +1,6 @@
 
+![MD_logo](/IMG/MD_logo.jpg "Markdown")
+
 # MARKDOWN
 
 **Markdown** es un **lenguaje de marcado** ligero que puede utilizar para agregar elementos de formato a documentos de texto sin formato. Creado por **John Gruber** en 2004, **Markdown** es ahora uno de los **lenguajes de marcado** más populares del mundo.
