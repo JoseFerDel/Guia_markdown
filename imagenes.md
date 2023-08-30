@@ -35,5 +35,5 @@ Para agregar un enlace a una imagen, incluya el código **Markdown** de la image
 ```
 
 La salida renderizada se ve así:
-[![Imagenes_04](/IMG/Imagenes_04.jpg "Imagenes con vinculos")](https://t.ly/BdY68)
+[![Imagenes_04](/IMG/Imagenes_04.jpg "Imagenes con vinculos")](https://t.ly/BdY68)   
 Si hacemos clic en la imagen nos llevará a la web **https://www.flickr.com**
