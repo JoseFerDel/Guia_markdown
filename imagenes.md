@@ -7,10 +7,10 @@ La forma más básica de insertar una imagen con **Markdown** es introducir el s
 
 **Sintaxis:**
 ```
-### ![Descripción](ruta_de_la_imagen)
+![Descripción](ruta_de_la_imagen)
 ```
 
-Por ejemplo si escribimos este código en el punto 2 de esta lista:
+Por ejemplo si escribimos un código con esa sintaxis en el punto 2 de esta lista:
 ![Imagenes_01](/IMG/Imagenes_01.jpg "Ejemplo")
 
 La salida renderizada se ve así:
@@ -29,7 +29,7 @@ La salida renderizada se ve así:
 
 Imagenes con vinculos 
 
-Para agregar un enlace a una imagen, incluya el código Markdown de la imagen entre llaves cuadradas y luego agregue el enlace entre paréntesis.
+Para agregar un enlace a una imagen, incluya el código **Markdown** de la imagen entre llaves cuadradas \( **\[** y **\]** \) y luego agregue el enlace entre paréntesis.
 ```
 [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://t.ly/BdY68)
 ```
@@ -37,6 +37,3 @@ Para agregar un enlace a una imagen, incluya el código Markdown de la imagen en
 La salida renderizada se ve así:
 [![Imagenes_04](/IMG/Imagenes_04.jpg "Imagenes con vinculos")](https://t.ly/BdY68)
 Si hacemos clic en la imagen nos llevará a la web **https://www.flickr.com**
-
-
-

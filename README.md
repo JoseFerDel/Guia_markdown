@@ -30,7 +30,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Bloques de código](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/codeblocks.md)
 
-* Imágenes
+* [Imágenes](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/imagenes.md)
 
 * Reglas horizontales
 
