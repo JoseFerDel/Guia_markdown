@@ -1,9 +1,9 @@
 
 # **Guia Markdown**
-
 ---
-
 Guia sobre el lenguaje de marcado Markdown.
+
+
 
 
 # **ÍNDICE**
@@ -20,9 +20,9 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Párrafos](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/parrafos.md)
 
-* Saltos de línea
+* [Saltos de línea](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/saltoslinea.md)
 
-* Énfasis (negrita y cursiva)
+* [Énfasis (negrita y cursiva)](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/enfasis.md)
 
 * Citas
 

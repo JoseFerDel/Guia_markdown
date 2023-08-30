@@ -1,4 +1,4 @@
-[ÍNDICE](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/intromd.md)
+[ÍNDICE](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/README.md)
 
 
 ![MD_logo](/IMG/MD_logo.jpeg "Markdown")
