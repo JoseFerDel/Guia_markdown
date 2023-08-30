@@ -27,7 +27,7 @@ Sangra uno o más elementos para crear una lista anidada.
 
 # **Iniciar elementos de lista no ordenada con números**
 
-Si necesita iniciar un elemento de lista no ordenada con un número seguido de un punto, puede utilizar una **barra invertida** \(**\\**\) para escapar el punto.
+Si necesita iniciar un elemento de lista no ordenada con un número seguido de un punto, puede utilizar una **barra invertida** \(**\\**\) para escapar el punto.   
 ![listas_04](/IMG/listas_04.jpg "Escapar punto")
 
 
