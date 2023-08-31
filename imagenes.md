@@ -37,3 +37,13 @@ Para agregar un enlace a una imagen, incluya el código **Markdown** de la image
 La salida renderizada se ve así:
 [![Imagenes_04](/IMG/Imagenes_04.jpg "Imagenes con vinculos")](https://t.ly/BdY68)   
 Si hacemos clic en la imagen nos llevará a la web **https://www.flickr.com**
+
+Markdown no permtie especificar la alineación de una imagen, para hacerlo nos apoyaremos en el código HTML:
+
+**Ejemplo:**
+```
+<p align="center">
+  <img height="600" src="Monje.jpg">
+</p>
+```
+
