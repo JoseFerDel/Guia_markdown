@@ -40,7 +40,8 @@ Si hacemos clic en la imagen nos llevará a la web **https://www.flickr.com**
 
 Markdown no permtie especificar la alineación de una imagen, para hacerlo nos apoyaremos en el código HTML:
 
-**Ejemplo:**
+
+**Ejemplo para imagen centrada:**
 ```
 <p align="center">
   <img height="600" src="Monje.jpg">
