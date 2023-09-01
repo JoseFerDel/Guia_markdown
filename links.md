@@ -45,7 +45,7 @@ Si pasamos el puntero del mouse por encima de este último lonk veremos que apar
 Para convertir rápidamente una **URL** o **dirección de correo electrónico** en un **enlace**, enciérralo entre signos **menor que** \( **\<** \) y **mayor que** \( **\>** \).   
 
 Por ejemplo, para convertir `https://www.google.es/` en un vinculo para que al hacer clic encima se visite esa web lo escribiremos de la siguiente forma:   
-`<www.google.com>`
+`<https://www.google.com>`
 
 Lo mismo haremos si queremos convertir una dirección de correo:   
 `<fakemail@fakedomain.com>`
@@ -119,7 +119,7 @@ Volviendo al ejemplo anterior, para que la etiqueta \[google\] funcione como un 
 
 `[Google]` es la etiqueta, `https://www.google.com` es el link al que hace referencia y `"Motor de búsqueda"` es el título opcional que podemos poner para que se muestre al pasar el puntero del mouse por encima.
 
-El resultado sería este:
+El resultado sería este:    
 [google]: https://www.google.com "Motor de búsqueda"
 
 
