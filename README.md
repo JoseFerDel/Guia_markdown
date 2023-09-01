@@ -9,32 +9,32 @@ Guia sobre el lenguaje de marcado Markdown.
 # **ÍNDICE**
 
 
-* [¿Que es Markdown?](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/intromd.md)
+* [¿Que es Markdown?](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/intromd.md)
 
 
 ## **SINTAXIS BÁSICA**
 
-* [Comentarios](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/comentarios.md)
+* [Comentarios](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/comentarios.md)
 
-* [Encabezados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/encabezados.md)
+* [Encabezados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/encabezados.md)
 
-* [Párrafos](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/parrafos.md)
+* [Párrafos](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/parrafos.md)
 
-* [Saltos de línea](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/saltoslinea.md)
+* [Saltos de línea](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/saltoslinea.md)
 
-* [Énfasis (negrita y cursiva)](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/enfasis.md)
+* [Énfasis (negrita y cursiva)](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/enfasis.md)
 
-* [Citas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/citas.md)
+* [Citas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/citas.md)
 
-* [Listas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/listas.md)
+* [Listas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/listas.md)
 
-* [Bloques de código](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/codeblocks.md)
+* [Bloques de código](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/codeblocks.md)
 
-* [Imágenes](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/imagenes.md)
+* [Imágenes](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/imagenes.md)
 
-* [Líneas horizontales](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/lineashorizontales.md)
+* [Líneas horizontales](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/lineashorizontales.md)
 
-* [Links](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/links.md)
+* [Links](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/links.md)
 
 * Caracteres de escape
 
@@ -45,7 +45,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * Tablas
 
-* [Bloques de código delimitados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/codeblocks_delimitados.md)
+* [Bloques de código delimitados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/codeblocks_delimitados.md)
 
 * Resaltado de sintaxis
 
