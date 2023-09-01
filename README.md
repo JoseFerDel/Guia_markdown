@@ -34,7 +34,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Reglas horizontales](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/guiashorizontales.md)
 
-* Links
+* [Links](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/links.md)
 
 * Caracteres de escape
 

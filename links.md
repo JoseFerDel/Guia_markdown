@@ -19,8 +19,8 @@ Para agregar un título, escríbelo entre comillas después de la **URL**.
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 ```
 
-La salida renderizada se ve así:
-[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+La salida renderizada se ve así:   
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 ## **URLs y direcciones de correo electrónico**
 
