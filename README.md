@@ -36,7 +36,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Links](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/links.md)
 
-* Caracteres de escape
+* [Caracteres de escape](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/caracteresescape.md)
 
 
 ## **SINTAXIS EXTENDIDA**
