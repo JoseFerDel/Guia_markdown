@@ -9,6 +9,8 @@ Ejemplo
 
 `\* Sin escapar el caracter asterisco del principio de esta línea esto sería una lista no ordenada.`
 
+
+La salida renderizada de esto último sería esta:
 > \* Sin escapar el caracter asterisco del principio de esta línea esto sería una lista no ordenada.`
 
 Vemos que el asterisco sigue siendo un asterisco y no ha sido interpretado para dar formato al texto.
@@ -17,7 +19,7 @@ Vemos que el asterisco sigue siendo un asterisco y no ha sido interpretado para 
 ## **Caracteres que puedes escapar**
 
 Signo   | Nombre
----     | ---
+:---    | :---
 \\      | Contrabarra
 \`      | Acento grave
 \*      | Asterisco
@@ -32,5 +34,30 @@ Signo   | Nombre
 \.      | Punto
 \!      | Signo de exclamación
 \|      | Tuberia
+
+
+Otra forma de escapar la contrabarra \( **\\** \) es utilizando su código HTML `&#124;`
+
+## **HTML**
+
+Muchas aplicaciones de **Markdown** le permiten utilizar etiquetas **HTML** en texto con formato **Markdown**. Esto es útil si prefiere ciertas etiquetas HTML a la sintaxis de **Markdown**. 
+Por ejemplo, a algunas personas les resulta más fácil utilizar etiquetas HTML para imágenes. Usar HTML también es útil cuando necesitas cambiar los atributos de un elemento, como especificar el color del texto o cambiar el ancho de una imagen ya que Markdown no hace esto.
+
+Para usar **HTML**, coloque las etiquetas en el texto de su archivo con formato **Markdown**.
+
+Así:
+```
+Esta palabra está en negrita con formato Markdown --> **Café**
+ 
+Esta palabra está en cursiva con  --> <em>Pistachos<em>
+```
+
+
+
+
+
+
+
+
 
 
