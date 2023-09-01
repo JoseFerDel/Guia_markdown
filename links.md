@@ -120,7 +120,8 @@ Volviendo al ejemplo anterior, para que la etiqueta \[google\] funcione como un 
 `[Google]` es la etiqueta, `https://www.google.com` es el link al que hace referencia y `"Motor de búsqueda"` es el título opcional que podemos poner para que se muestre al pasar el puntero del mouse por encima.
 
 El resultado sería este:    
-[google]: https://www.google.com "Motor de búsqueda"
+
+[google]: https://www.google.com
 
 
 El equivalente de este ejemplo en HTML sería así:   

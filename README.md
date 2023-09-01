@@ -32,7 +32,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Imágenes](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/imagenes.md)
 
-* [Reglas horizontales](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/guiashorizontales.md)
+* [Líneas horizontales](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/lineashorizontales.md)
 
 * [Links](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/links.md)
 
