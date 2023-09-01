@@ -4,7 +4,7 @@
 # **Links**
 
 Para crear un **link, o enlace, incluya el texto del **link**, lo que se verá en pantalla, entre **llaves cuadradas** \( **\[ y \]** \) (por ejemplo, **\[Duck Duck Go\]**) y a continuación y si espacios pon la **URL** entre paréntesis (por ejemplo, **\(https:\/\/duckduckgo.com\)**).   
-![links_01](/IMG/links_01.jpg "Ejemplo de link"")
+![links_01](/IMG/links_01.jpg "Ejemplo de link")
 
 La salida renderizada se ve así:
 ![links_02](/IMG/links_02.jpg "Salida renderizada")
@@ -14,15 +14,13 @@ La salida renderizada se ve así:
 
 Opcionalmente, puedes agregar un **título** para un **enlace**. 
 Este título aparecerá cuando el usuario pase el cursor sobre el enlace. 
-Para agregar un título, escríbalo entre comillas después de la URL.
-![links_03](/IMG/links_03.jpg "Título de link")
-La captura se corta al final pero esa última frase está encerrada entre comillas de principio a fin y terminada en paréntesis. 
+Para agregar un título, escríbelo entre comillas después de la **URL**.   
 ```
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 ```
 
 La salida renderizada se ve así:
-![links_04](/IMG/links_04.jpg "Salida renderizada")
+[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 ## **URLs y direcciones de correo electrónico**
 
