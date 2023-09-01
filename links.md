@@ -3,11 +3,13 @@
 
 # **Links**
 
-Para crear un **link, o enlace, incluya el texto del **link**, lo que se verá en pantalla, entre **llaves cuadradas** \( **\[ y \]** \) (por ejemplo, **\[Duck Duck Go\]**) y a continuación y si espacios pon la **URL** entre paréntesis (por ejemplo, **\(https:\/\/duckduckgo.com\)**).   
-> `My favorite search engine is [Duck Duck Go](https://duckduckgo.com)`
+Para crear un **link, o enlace, incluye el texto del **link**, lo que se verá en pantalla, entre **corchetes** \( **\[ y \]** \) (por ejemplo, `[Duck Duck Go]`) y a continuación y sin espacios pon la **URL** entre paréntesis (por ejemplo, `(https://duckduckgo.com)`.   
+
+Este ejemplo podría quedar así:
+> `Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)`
 
 La salida renderizada se ve así:
-> My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+> Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)
 
 
 ## **Agregar títulos a links**
@@ -16,7 +18,7 @@ Opcionalmente, puedes agregar un **título** para un **enlace**.
 Este título aparecerá cuando el usuario pase el cursor sobre el enlace. 
 Para agregar un título, escríbelo entre comillas después de la **URL**.   
 ```
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com "El mejor de búsqueda para privacidad").
 ```
 
 La salida renderizada se ve así:   
