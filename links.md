@@ -121,8 +121,8 @@ Volviendo al ejemplo anterior, para que la etiqueta \[google\] funcione como un 
 
 El resultado sería este:    
 
-[google]: https://www.google.com
-
+[google]: https://www.google.com "Página de google"
+(No se ve nada porque es una definición de etiqueta.
 
 El equivalente de este ejemplo en HTML sería así:   
 `<a href="https://www.google.com" title="Motor de búsqueda">google</a>`
