@@ -3,7 +3,7 @@
 
 # **Links**
 
-Para crear un **link, o enlace, incluya el texto del **link**, lo que se verá en pantalla, entre **llaves cuadradas** \( **\[ y \]** \) (por ejemplo, **\[Duck Duck Go\]**) y a continuación y si espacios pon la **URL** entre paréntesis (por ejemplo, **\(https:\/\/duckduckgo.com\)**).
+Para crear un **link, o enlace, incluya el texto del **link**, lo que se verá en pantalla, entre **llaves cuadradas** \( **\[ y \]** \) (por ejemplo, **\[Duck Duck Go\]**) y a continuación y si espacios pon la **URL** entre paréntesis (por ejemplo, **\(https:\/\/duckduckgo.com\)**).   
 ![links_01](/IMG/links_01.jpg "Ejemplo de link"")
 
 La salida renderizada se ve así:
