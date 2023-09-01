@@ -4,10 +4,10 @@
 # **Links**
 
 Para crear un **link, o enlace, incluya el texto del **link**, lo que se verá en pantalla, entre **llaves cuadradas** \( **\[ y \]** \) (por ejemplo, **\[Duck Duck Go\]**) y a continuación y si espacios pon la **URL** entre paréntesis (por ejemplo, **\(https:\/\/duckduckgo.com\)**).   
-![links_01](/IMG/links_01.jpg "Ejemplo de link")
+> `My favorite search engine is [Duck Duck Go](https://duckduckgo.com)`
 
 La salida renderizada se ve así:
-![links_02](/IMG/links_02.jpg "Salida renderizada")
+> My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 
 ## **Agregar títulos a links**
@@ -20,15 +20,22 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 ```
 
 La salida renderizada se ve así:   
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+> My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 ## **URLs y direcciones de correo electrónico**
 
-Para convertir rápidamente una **URL** o **dirección de correo electrónico** en un **enlace**, enciérralo entre signos **menor que** \( **\<** \) y **mayor que** \( **\>** \).
-![links_05](/IMG/links_05.jpg "Convertir en enlace")
+Para convertir rápidamente una **URL** o **dirección de correo electrónico** en un **enlace**, enciérralo entre signos **menor que** \( **\<** \) y **mayor que** \( **\>** \).   
 
-La salida renderizada se ve así:
-![links_06](/IMG/links_06.jpg "Salida renderizada")
+Por ejemplo, para convertir www.google.com en un vinculo para que al hacer clic encima se visite esa web lo escribiremos de la siguiente forma:
+`<www.google.com>`
+
+Lo mismo haremos si queremos convertir una dirección de correo:
+`<fakemail@fakedomain.com>'
+
+La salida renderizada de ambos ejemplos quedaría así:   
+> <www.google.com>
+>
+> <fakemail@fakedomain.com>
 
 
 ## **Dando formato a links**
