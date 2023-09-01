@@ -49,15 +49,22 @@ Así:
 ```
 Esta palabra está en negrita con formato Markdown --> **Café**
  
-Esta palabra está en cursiva con  --> <em>Pistachos<em>
+Esta palabra está en cursiva con  --> <em>Pistachos</em>
 ```
 
+La salida renderizada sería esta:
+
+Esta palabra está en negrita con formato Markdown --> **Café**
+ 
+Esta palabra está en cursiva con  --> <em>Pistachos</em>
 
 
+## **Buenas prácticas con HTML**
 
+Por razones de seguridad, no todas las aplicaciones de **Markdown** admiten **HTML** en los documentos de Markdown. En caso de duda, consulta la documentación de tu aplicación **Markdown**. 
+Algunas aplicaciones sólo admiten un subconjunto de etiquetas **HTML**.
 
+Utilice líneas en blanco para separar elementos **HTML** a nivel de bloque como `<div>`, `<table>`, `<pre>` y `<p>` del contenido que haya alrededor. 
+Intente no sangrar las etiquetas con tabulaciones o espacios, ya que eso puede interferir con el formato.
 
-
-
-
-
+No puede utilices la sintaxis de **Markdown** dentro de etiquetas **HTML** a nivel de bloque. Por ejemplo, `<p>cursiva y **negrita**</p>` no funcionará.
