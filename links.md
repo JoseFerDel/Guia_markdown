@@ -3,26 +3,37 @@
 
 # **Links**
 
-Para crear un **link, o enlace, incluye el texto del **link**, lo que se verá en pantalla, entre **corchetes** \( **\[ y \]** \) (por ejemplo, `[Duck Duck Go]`) y a continuación y sin espacios pon la **URL** entre paréntesis (por ejemplo, `(https://duckduckgo.com)`.   
+Para crear un **link, o enlace, incluye el texto del **link**, lo que se verá en pantalla, entre **corchetes** \( **\[ y \]** \) 
+
+(por ejemplo, `[Duck Duck Go]`) 
+
+y a continuación y sin espacios pon la **URL** entre paréntesis (por ejemplo, `(https://duckduckgo.com)`.   
 
 Este ejemplo podría quedar así:
-> `Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)`
+`Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)`
 
 La salida renderizada se ve así:
 > Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)
 
+Vemos que el texto "Duck Duck Go" ahora es un link a la URL indicada.
+
+---
 
 ## **Agregar títulos a links**
 
-Opcionalmente, puedes agregar un **título** para un **enlace**. 
+Opcionalmente, puedes agregar un **título** a un **enlace**. 
 Este título aparecerá cuando el usuario pase el cursor sobre el enlace. 
 Para agregar un título, escríbelo entre comillas después de la **URL**.   
-```
-Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com "El mejor de búsqueda para privacidad").
-```
+
+`Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com "El mejor de búsqueda para privacidad").`
+
 
 La salida renderizada se ve así:   
-> My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+> Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com "El mejor de búsqueda para privacida").
+
+Si pasamos el puntero del mouse por encima de este último lonk veremos que aparece el texto "El mejor de búsqueda para privacida".
+
+---
 
 ## **URLs y direcciones de correo electrónico**
 
@@ -39,6 +50,7 @@ La salida renderizada de ambos ejemplos quedaría así:
 >
 > <fakemail@fakedomain.com>
 
+---
 
 ## **Dando formato a links**
 
@@ -49,15 +61,15 @@ Para indicar enlaces como **código**, agregue un acento abiertos \( **\`** \) a
 La salida renderizada se ve así:
 ![links_08](/IMG/links_08.jpg "Salida renderizada")
 
+---
 
 ## **Enlaces de estilo de referencia**
 
 Los **enlaces de estilo de referencia** son un tipo especial de enlace que hace que las **URL** sean más fáciles de mostrar y leer en **Markdown**. 
 
 Los **enlaces de estilo de referencia** se construyen en dos partes: 
-* La parte que tiene la referencia dentro de tu texto.
-y 
-* La parte que colocamos en algún otro lugar del archivo con la referencia y la URL a la que se refiere.
+1. La parte que tiene la referencia dentro de tu texto.
+2. La parte que colocamos en algún otro lugar del archivo con la referencia y la URL a la que se refiere.
 
 ### **Formatear la primera parte del enlace**
 
@@ -69,7 +81,7 @@ La parte que pondríamos dentro de nuestro texto tiene la siguienet sintaxis:
 > 	Esto es lo que aparecerá como el texto del enlace en tu documento.
 > 
 > [etiqueta]  
-> 	Es la etiqueta que vamos a utilizar par referirnos a la URL a esta etiqueta (en este punto todavía no hemos definido esa etiqueta).
+> 	Es la etiqueta que vamos a utilizar par referirnos a la URL (en este punto todavía no hemos definido esa etiqueta).
 
 
 Por ejemplo:
@@ -77,7 +89,7 @@ Por ejemplo:
 
 La salida renderizada quedaría así:
 
-Esto es [el enlace a Google][google].
+> Esto es [el enlace a Google][google].
 
 Tras escribir "**Esto es**", aparece la frase "**el enlace a Google**" como un vinculo pero el vinculo al que hace referencia, que no se ve en pantalla al renderizar, es la etiqueta \[google\].
 Ahora tendremos que definir en otra parte del documento a que hace referencia \[google\].
@@ -98,34 +110,25 @@ La sintaxis sería así:
 
 Esto no se mostrará al renderizar, esta parte del código es solo para establecer la relación entre la etiqueta y la URL a la que hace referencia.
 
-Volviendo al ejemplo anterior, para que la etiqueta \[google\] funcione como un link a la web de google cualquier link que creemos dentro del texto tendremos que poner una línea como esta en alguna parte del texto:
+Volviendo al ejemplo anterior, para que la etiqueta \[google\] funcione como un link a la web de google dentro del texto tendremos que poner una línea como la siguiente en alguna parte del texto:
 
 ### `[google]: https://www.google.com "Motor de búsqueda"`
 
-Aquí además hemos agregado un título "Motor de búsqueda" que aparecerá si pasamos el puntero del mouse por encima del link.
+`[Google]` es la etiqueta, `https://www.google.com` es el link al que hace referencia y `"Motor de búsqueda"` es el título opcional que podemos poner para que se muestre al pasar el puntero del mouse por encima.
 
+El equivalente de este ejemplo en HTML sería así:
+`<a href="https://www.google.com" title="Motor de búsqueda">google</a>`
+
+---
 
 ### **Buenas practicas con links**
 
 Las aplicaciones de **Markdown** no se ponen de acuerdo sobre cómo manejar los espacios en medio de una **URL**. 
 Para mayor compatibilidad, intente codificar cualquier espacio en la URL con **\%20**. 
 Alternativamente, si su aplicación **Markdown** admite **HTML**, puede usar la etiqueta HTML `a href=`.
+![links_12](/IMG/links_12.jpg "Buenas prácticas 01")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Los **paréntesis** en medio de una URL también pueden resultar problemáticos. 
+Para mayor compatibilidad, intente codificar en la URL el **paréntesis** de apertura ( **\(** ) con `%28` y el paréntesis de cierre ( **\)** ) con `%29`.
+ 
+Alternativamente, si su aplicación Markdown admite **HTML**, puede usar la etiqueta HTML `a href=`.
