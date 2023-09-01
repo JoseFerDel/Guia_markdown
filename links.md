@@ -8,15 +8,15 @@ Para crear un **link**, o enlace, incluye el texto del **link**, lo que se verá
 Por ejemplo:    
 `[Duck Duck Go]` 
 
-y a continuación y sin espacios pon la **URL** entre paréntesis 
+y a continuación y sin espacios pon la **URL** entre paréntesis ( \( y \) ).
 
-Por ejemplo: 
+Por ejemplo:     
 `(https://duckduckgo.com)`   
 
-Este ejemplo podría quedar así:   
+Este ejemplo podría quedar así:        
 `Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)`
 
-La salida renderizada se ve así:
+La salida renderizada se ve así:     
 > Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com)
 
 Vemos que el texto "Duck Duck Go" ahora es un link a la URL indicada.
