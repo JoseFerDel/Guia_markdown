@@ -29,7 +29,7 @@ Opcionalmente, puedes agregar un **título** a un **enlace**.
 Este título aparecerá cuando el usuario pase el cursor sobre el enlace. 
 Para agregar un título, escríbelo entre comillas después de la **URL**.   
 
-Por ejemplo:
+Por ejemplo:   
 `Mi motor de búsqueda favorito es [Duck Duck Go](https://duckduckgo.com "El mejor motor de búsqueda para privacidad").`
 
 
@@ -92,7 +92,7 @@ La parte que pondríamos dentro de nuestro texto tiene la siguienet sintaxis:
 Por ejemplo:
 ### `Esto es [el enlace a Google][google].`
 
-La salida renderizada quedaría así:
+La salida renderizada quedaría así:   
 Esto es [el enlace a Google][google].
 
 Tras escribir "**Esto es**", aparece la frase "**el enlace a Google**" como un vinculo pero el vinculo al que hace referencia, que no se ve en pantalla al renderizar, es la etiqueta \[google\].
@@ -104,7 +104,7 @@ Ahora tendremos que definir en otra parte del documento a que hace referencia \[
 Aquí es cuando definimos la etiqueta que hemos utilizado antes, o podríamos hacer esto primero para tener la etiqueta lista para varios usos.
 
 La segunda parte de un **enlace de estilo de referencia** tiene los siguientes atributos:
-1. La etiqueta, debe ir entre **corchetes**, seguida inmediatamente por **dos puntos** y al menos **un espacio** (por ejemplo, **\[etiqueta\]: **).
+1. La etiqueta, debe ir entre **corchetes**, seguida inmediatamente por **dos puntos** y al menos **un espacio** (por ejemplo, **\[etiqueta\]:** ).
 2. La URL del enlace, que opcionalmente puede encerrar entre caracteres menor que y mayor que \( **\< y \>** \).
 3. El **título opcional del enlace**, que se puede incluir entre **comillas dobles**, **comillas simples** o **paréntesis**.
 
@@ -120,7 +120,7 @@ Volviendo al ejemplo anterior, para que la etiqueta \[google\] funcione como un 
 `[Google]` es la etiqueta, `https://www.google.com` es el link al que hace referencia y `"Motor de búsqueda"` es el título opcional que podemos poner para que se muestre al pasar el puntero del mouse por encima.
 
 El resultado sería este:
-[google]: https://www.google.com "Motor de búsqueda
+[google]: https://www.google.com "Motor de búsqueda"
 
 
 El equivalente de este ejemplo en HTML sería así:   
