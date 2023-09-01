@@ -52,11 +52,12 @@ Esta palabra está en negrita con formato Markdown --> **Café**
 Esta palabra está en cursiva con  --> <em>Pistachos</em>
 ```
 
+
 La salida renderizada sería esta:
 
-Esta palabra está en negrita con formato Markdown --> **Café**
- 
-Esta palabra está en cursiva con  --> <em>Pistachos</em>
+> Esta palabra está en negrita con formato Markdown --> **Café**
+>  
+> Esta palabra está en cursiva con  --> <em>Pistachos</em>
 
 
 ## **Buenas prácticas con HTML**
