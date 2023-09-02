@@ -18,9 +18,24 @@ Esto miso en **HTML** se vería así:
 <h3 id="id-encabezado">Mi gran encabezado</h3>
 ```
 
-La salida renderizada de esto sería esta:
+---
+
+La salida renderizada del código **Markdown** sería esta:
 
 ### Mi gran encabezado{id-encabezado"}
+
+
+### NOTA: 
+Parece que Github no reconoce las id de encabezado de Markdown.
+
+---
+
+Y la salida del código HTML sería esta:
+
+<h3 id="id-encabezado">Mi gran encabezado</h3>
+
+
+
 
 
 ## **Vinculación a ID de encabezado**
