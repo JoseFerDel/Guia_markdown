@@ -14,14 +14,11 @@ Para tachar palabras, utilice **dos símbolos de tilde** `~~` antes y después d
 Ejemplo:
 
 `~~Esta frase está tachada~~. Pero esta otra no lo está.`
-
-
-
+    
+    
+    
+    
 La salida renderizada se vería así:
 
 ~~Esta frase está tachada~~. Pero esta otra no lo está.
-
-
-
-
 
