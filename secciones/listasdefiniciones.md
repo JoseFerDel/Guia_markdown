@@ -18,33 +18,31 @@ Segundo termino
 
 La salida renderizada en formato Markdown se ve así:
 
-Primer termino
-:Esta es una definición para el primer termino.
+Primer termino   
+:Esta es una definición para el primer termino.   
 
-Segundo termino
-:Esta es una definición del segundo termino.
-:Esta es otra definición para el segundo termino.
+Segundo termino   
+:Esta es una definición del segundo termino.   
+:Esta es otra definición para el segundo termino.   
 
-En HTML se escribiría así:
+En HTML se escribiría así:   
 ```
-<dl>
-    <dt>Primer termino</dt>
-    <dd>Esta es la definición del primer termino</dd>
-    <dt>Segundo termino<dt>
-    <dd>Esta es una definición del segundo termino</dd>
-    <dd>Esta es otra definición para el segundo termino</dd>
-</dl>
+<dl>   
+    <dt>Primer termino</dt>   
+    <dd>Esta es la definición del primer termino</dd>   
+    <dt>Segundo termino<dt>   
+    <dd>Esta es una definición del segundo termino</dd>   
+    <dd>Esta es otra definición para el segundo termino</dd>   
+</dl>   
 ```
 
-Y la salida renderizada en HTML sería esta:
-
-<dl>
-    <dt>Primer termino</dt>
-    <dd>Esta es la definición del primer termino</dd>
-    <dt>Segundo termino<dt>
-    <dd>Esta es una definición del segundo termino</dd>
-    <dd>Esta es otra definición para el segundo termino</dd>
-</dl>
-
+Y la salida renderizada en HTML sería esta:   
+<dl>   
+    <dt>Primer termino</dt>   
+    <dd>Esta es la definición del primer termino</dd>   
+    <dt>Segundo termino<dt>   
+    <dd>Esta es una definición del segundo termino</dd>   
+    <dd>Esta es otra definición para el segundo termino</dd>   
+</dl>   
 
 
