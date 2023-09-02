@@ -9,7 +9,11 @@ Por ejempo, para resaltar la sintaxis de este código **json**:
 ![resaltadosintaxis_01](/IMG/resaltadosintaxis_01.jpg "Resaltado de sintaxis json")
 
 La salida renderizada quedaría así:    
-![resaltadosintaxis_01](/IMG/resaltadosintaxis_01.jpg "Resaltado de sintaxis json")
+![resaltadosintaxis_02](/IMG/resaltadosintaxis_02.jpg "Resaltado de sintaxis json")
+
+
+## **NOTA:**
+Esto NO funciona en **Github**.
 
 
 
