@@ -2,7 +2,7 @@
 # **Guia Markdown**
 ---
 Guia sobre el lenguaje de marcado Markdown.    
-(Esta guia está basada en guia que podemos encontrar en la web oficinal de Markdown --> <https://www.markdownguide.org/>
+(Esta guia está basada en guia que podemos encontrar en la [web de Markdown](https://www.markdownguide.org/ "https://www.markdownguide.org/"))
 
 
 
