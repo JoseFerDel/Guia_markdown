@@ -5,7 +5,18 @@
 
 Muchos procesadores **Markdown** admiten el resaltado de sintaxis para bloques de **código delimitados**. Esta característica le permite agregar resaltado de color para cualquier lenguaje de programación en el que se haya escrito tu código. Para agregar resaltado de sintaxis, especifica un lenguaje junto a las primeras comillas invertidas antes del **bloque de código delimitado**.
 
-Por ejempo, para resaltar la sintaxis de este código json:
+Por ejempo, para resaltar la sintaxis de este código **json**:    
+![resaltadosintaxis_01](/IMG/resaltadosintaxis_01.jpg "Resaltado de sintaxis json")
+
+La salida renderizada quedaría así:    
+![resaltadosintaxis_01](/IMG/resaltadosintaxis_01.jpg "Resaltado de sintaxis json")
+
+
+
+
+<!--
+
+No funciona en GitHub
 
 ```
 
@@ -28,4 +39,4 @@ La salida renderizada quedaría así:
     "Edad" : 57
 }
 ``` 
-
+-->
