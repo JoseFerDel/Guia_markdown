@@ -25,8 +25,7 @@ La salida renderizada del código **Markdown** sería esta:
 ### Mi gran encabezado{id-encabezado"}
 
 
-### NOTA: 
-Parece que Github no reconoce las id de encabezado de Markdown.
+**NOTA:** Parece que Github no reconoce las id de encabezado de Markdown.
 
 ---
 
@@ -34,6 +33,7 @@ Y la salida del código HTML sería esta:
 
 <h3 id="id-encabezado">Mi gran encabezado</h3>
 
+**NOTA:** Github reconoce correctamente los id de encabezado en HTML.
 
 
 
@@ -53,7 +53,9 @@ Y en HTML así:
 <a href="#id-encabezado">Texto de ejemplo</a>
 ```
 
-La salida renderizada sería esta:
-Otros sitios web pueden vincular a
+La salida renderizada del código **Markdown** sería esta:
 
-Otros sitios web pueden vincular al encabezado agregando el ID del encabezado personalizado a la URL completa de la página web 
+[Texto de ejemplo](#id-encabezado)
+
+Y la salida renderizada del código HTML sería esta:
+<a href="#id-encabezado">Texto de ejemplo</a> 
