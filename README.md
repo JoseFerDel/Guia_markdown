@@ -43,7 +43,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Sobre sintaxis extendida](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/introsintext.md)
 
-* Tablas
+* [Tablas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/tablas.md)
 
 * [Bloques de código delimitados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/codeblocks_delimitados.md)
 
