@@ -2,7 +2,7 @@ Modificación de prueba...
 # **Guia Markdown**
 ---
 Guia sobre el lenguaje de marcado Markdown.
-
+(Esta guia está basada en guia que podemos encontrar en la web oficinal de Markdown --> <https://www.markdownguide.org/>
 
 
 
@@ -41,7 +41,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 ## **SINTAXIS EXTENDIDA**
 
-* Sobre sintaxis extendida
+* [Sobre sintaxis extendida](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/introsintext.md)
 
 * Tablas
 
