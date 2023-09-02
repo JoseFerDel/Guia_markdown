@@ -25,6 +25,10 @@ Segundo termino
 :Esta es una definición del segundo termino.   
 :Esta es otra definición para el segundo termino.   
 
+NOTA: Github no reconce las listas de definiciones de **Markdown**.
+
+
+
 En HTML se escribiría así:   
 ```
 <dl>   
@@ -45,4 +49,4 @@ Y la salida renderizada en HTML sería esta:
     <dd>Esta es otra definición para el segundo termino</dd>   
 </dl>   
 
-
+NOTA: Github reconoce correctamente las listas de definiciones en formato HTML.

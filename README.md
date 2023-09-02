@@ -53,7 +53,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [ID de encabezado](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/idencabezado.md)
 
-* Listas de definiciones
+* [Listas de definiciones](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/listasdefiniciones.md)
 
 * Tachado
 
