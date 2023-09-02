@@ -8,6 +8,7 @@ Muchos procesadores **Markdown** admiten el resaltado de sintaxis para bloques d
 Por ejempo, para resaltar la sintaxis de este código json:
 
 ```
+
 ```json
 {
     "Nombre" : "Jhon"
@@ -15,9 +16,11 @@ Por ejempo, para resaltar la sintaxis de este código json:
     "Edad" : 57
 }
 ```
+
 ```
 
 La salida renderizada quedaría así:
+
 ```json
 {
     "Nombre" : "Jhon"
