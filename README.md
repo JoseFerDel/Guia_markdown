@@ -47,7 +47,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Bloques de código delimitados](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/codeblocks_delimitados.md)
 
-* Resaltado de sintaxis
+* [Resaltado de sintaxis](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/resaltadosintaxis.md)
 
 * Notas a pie de página
 
