@@ -20,7 +20,7 @@ Esto miso en **HTML** se vería así:
 
 La salida renderizada de esto sería esta:
 
-### Mi gran encabezado{id-encezado}
+### Mi gran encabezado{id-encabezado"}
 
 
 ## **Vinculación a ID de encabezado**
@@ -39,13 +39,6 @@ Y en HTML así:
 ```
 
 La salida renderizada sería esta:
-ç
-[Texto de ejemplo](#id-encabezado)
+Otros sitios web pueden vincular a
 
-
-Otros sitios web pueden vincular al encabezado agregando el **ID del encabezado personalizado** a la URL completa de la página web.
-
-Por ejemlo así:
-```
-[ID de encabezado](https://www.markdownguide.org/extended-syntax#heading-ids)
-```
+Otros sitios web pueden vincular al encabezado agregando el ID del encabezado personalizado a la URL completa de la página web 

@@ -51,7 +51,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Notas a pie de página](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/notasapie.md)
 
-* ID de encabezado
+* [ID de encabezado](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/idencabezado.md)
 
 * Listas de definiciones
 
