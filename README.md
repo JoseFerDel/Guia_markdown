@@ -1,7 +1,7 @@
-Modificación de prueba...
+
 # **Guia Markdown**
 ---
-Guia sobre el lenguaje de marcado Markdown.
+Guia sobre el lenguaje de marcado Markdown.    
 (Esta guia está basada en guia que podemos encontrar en la web oficinal de Markdown --> <https://www.markdownguide.org/>
 
 
