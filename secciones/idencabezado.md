@@ -48,7 +48,7 @@ Por ejemplo en **Markdown** sería así:
 [Texto de ejemplo](#id-encabezado)
 ```
 
-Y en HTML así:
+Y en HTML así:   
 ``` 
 <a href="#id-encabezado">Texto de ejemplo</a>
 ```
@@ -57,5 +57,6 @@ La salida renderizada del código **Markdown** sería esta:
 
 [Texto de ejemplo](#id-encabezado)
 
-Y la salida renderizada del código HTML sería esta:
+Y la salida renderizada del código HTML sería esta:   
+
 <a href="#id-encabezado">Texto de ejemplo</a> 
