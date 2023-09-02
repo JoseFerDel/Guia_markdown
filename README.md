@@ -57,7 +57,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Tachado](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/tachado.md)
 
-* Listas de tareas
+* [Listas de tareas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/listadetareas.md)
 
 * Emoji
 
