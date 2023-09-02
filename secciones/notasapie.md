@@ -43,3 +43,6 @@ Esta es una nota al pie simple, [^1] y esta otra es una nota al pie más larga. 
     def función:
         cosas cosas
     ```
+
+### **NOTA:** 
+La **nota al pie** larga no es reconocida por Github.
