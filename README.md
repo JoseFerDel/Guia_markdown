@@ -49,7 +49,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Resaltado de sintaxis](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/resaltadosintaxis.md)
 
-* Notas a pie de página
+* [Notas a pie de página](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/notasapie.md)
 
 * ID de encabezado
 

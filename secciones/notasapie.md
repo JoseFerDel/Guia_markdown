@@ -26,3 +26,20 @@ Esta es una nota al pie simple, [^1] y esta otra es una nota al pie más larga. 
         cosas cosas
     ```
 ```
+
+
+El resultado renderizado es este:
+
+Esta es una nota al pie simple, [^1] y esta otra es una nota al pie más larga. [^grannnota]
+
+
+[^1]: Esta es la primera nota al pie.
+
+[^grannota]: Esta la segunda nota al pie con multiples párrafos y código.
+    Indentamos los párrafos para incluirlos en la nota al pie.
+    `{ mi código }`
+
+    ```
+    def función:
+        cosas cosas
+    ```
