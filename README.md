@@ -55,7 +55,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Listas de definiciones](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/listasdefiniciones.md)
 
-* Tachado
+* [Tachado](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/tachado.md)
 
 * Listas de tareas
 
