@@ -17,11 +17,11 @@ No todas las aplicaciones de **Markdown** admiten elementos de sintaxis extendid
 ## **Lenguajes de marcado ligeros**
 Existen varios lenguajes de marcado ligeros que son superconjuntos de **Markdown**. Incluyen **sintaxis básica** y se basan en ella agregando elementos adicionales. Muchas de las aplicaciones **Markdown** más populares utilizan uno de los siguientes lenguajes de marcado ligeros:
 
-• [CommonMark](https://commonmark.org/)
-• [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/)
-• [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
-• [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)
-• [R Markdown](https://rmarkdown.rstudio.com/)
+• [CommonMark](https://commonmark.org/)    
+• [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/)    
+• [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)    
+• [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)    
+• [R Markdown](https://rmarkdown.rstudio.com/)    
 
 
 ## **Procesadores Markdown**
