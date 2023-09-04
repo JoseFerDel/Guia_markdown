@@ -20,15 +20,17 @@ Por ejemplo:
 
 El resultado renderizado de esto último sería este:   
 > Ir de acampada :tent: es muy divertido :joy:.`
-
-
+        
+        
+---    
+        
 ## **LISTA DE EMOJIS**
-## --------------------
+
+---
 
 Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto con sus respectivos shortcodes. Ten en cuenta que los shortcodes pueden variar entre diferentes aplicaciones. Por ello, es recomendable que consultes la documentación de la herramienta o del editor que uses para verificar su sintaxis.
-
-
-
+    
+    
 
 **Descripción**	|	Emoji	|	Shortcode
 ----	|	----	|	----
