@@ -67,6 +67,6 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Superíndice](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/superindice.md)
 
-* Vinculación URL automática
+* [Vinculación URL automática](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/urlautomatica.md)
 
 
