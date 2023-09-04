@@ -10,18 +10,18 @@ Para crear un **subíndice**, utilice un símbolo de tilde `~` antes y después 
 Ejemplo:
 `H~2~O`
 
-La salida renderizada quedaría así:
+La salida renderizada quedaría así:     
 H~2~O
 
-Esto parece tener el mismo efecto que tachar `H~~2~~O`    
-Así se ve eutilizando la doble `~` destinada a tachar texto --> H~~2~~O
+Esto parece tener el mismo efecto que tachar --> `H~~2~~O`    
+Así se ve utilizando la doble `~` destinada a tachar texto --> H~~2~~O
 
-NOTA: El código de Markdown para los subíndices no funciona en Github.
+NOTA: El código de Markdown para los subíndices no funciona en Github, parece que tiene el mismo efecto que el código para tachar texto.
 
 ---
 
 Alternativamente, si su aplicación **Markdown** admite **HTML**, puede usar la etiqueta sub **HTML**.    
 `H<sub>2</sub>O`
 
-La salida renderizada serí en este caso sería esta:
+La salida renderizada serí en este caso sería esta:      
 H<sub>2</sub>O
