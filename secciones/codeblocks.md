@@ -27,7 +27,6 @@ La salida renderizada se ve así:
 ## **Palabra o frase como código** 
 
 Para indicar una palabra o frase como código, escríbala entre **acentos graves** ``` ` ```.
-![codeblocks_03](/IMG/codeblocks_03.jpg "Palabra o frase como código")
 
 Markdown				|	HTML							|	Salida renderizada
 ----					|	----							|	----
@@ -35,14 +34,14 @@ El el terminal escribe \`vim\`.		|	En el terminal escribe \<code\>vim\<\/code\>	
 				
 
 
-## **Escapar comillas invertidas**
+## **Escapar acentos graves**
 
-Si la palabra o frase que desea indicar como código incluye uno o más **acentos graves** \`, puede escaparlos encerrando la palabra o frase entre acentos graves **dobles** `` ` ``..      
+Si la palabra o frase que desea indicar como código incluye uno o más **acentos graves** \`, puede escaparlos encerrando la palabra o frase entre acentos graves **dobles** `` ` ``.          
 
 
 Markdown						|	HTML								|	Salida renderizada	
 ----							|	----								|	----
-\`\`Utiliza \`código\` en tu archivo Markdown.\`\`	|	\<code\>Utiliza `código` en tu archivo Markdown.\<\/code\>	|	``Utiliza `código` en tu archivo Markdown.``
+\`\`Utiliza \`código\` en tu archivo Markdown.\`\`	|	\<code\>Utiliza \`código\` en tu archivo Markdown.\<\/code\>	|	``Utiliza `código` en tu archivo Markdown.``
 
 
 
@@ -66,8 +65,10 @@ La salida renderizada quedaría así:
 
 1. Abre el archivo.      
 2. Encuentra el siguiente bloque de código en la línea 26:      
+
 		<html>      
 			<head>      
 			</head>     
 		</html>      
+
 3. Actualiza el titulo para que coincida con el nombre de la página.     
