@@ -16,5 +16,7 @@ Algunas aplicaciones de **Markdown** te permiten insertar **emoji** escribiendo 
 Estos comienzan y terminan con **dos puntos** e incluyen el **nombre de un emoji**.
 
 Por ejemplo.
+`Ir de acampada :tent: es muy divertido :joy:.`
 
-Esto es muy divertido :joy:
+El resultado renderizado de esto último sería este:
+> Ir de acampada :tent: es muy divertido :joy:.`
