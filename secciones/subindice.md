@@ -7,7 +7,7 @@
 Esto no es común, pero algunos procesadores **Markdown** le permiten usar **subíndices** para colocar uno o más caracteres ligeramente debajo de la línea de texto normal. 
 Para crear un **subíndice**, utilice un símbolo de tilde `~` antes y después de los caracteres.
 
-Ejemplo:
+Ejemplo:     
 `H~2~O`
 
 La salida renderizada quedaría así:     
