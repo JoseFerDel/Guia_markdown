@@ -11,14 +11,13 @@ Para resaltar palabras, utilice dos signos iguales `==` antes y después de las 
 
 
 El código para hacer esto en Markdown sería este:
-
 `Voy a subrayar estas ==importantes palabras==.`
 
 La salida sería esta (Aunque en **Github** no funcionará):
+> Voy a subrayar estas ==importantes palabras==.
      
      
-Voy a subrayar estas ==importantes palabras==.
-
+     
 Alternativamente, si su aplicación **Markdown** admite **HTML**, puede usar la etiqueta HTML de marca.
      
      
@@ -27,7 +26,9 @@ Así:
      
      
 La salida renderizada de este **HTML** sería esta:    
-Voy a subrayar estas <mark>importantes palabras</mark>.
+> Voy a subrayar estas <mark>importantes palabras</mark>.
 
+
+**NOTA:** Ninguna de las dos formas es compatible con Github.
 
 
