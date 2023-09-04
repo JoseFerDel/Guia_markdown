@@ -15,7 +15,7 @@ La salida renderizada quedaría así:
 ## **Deshabilitar el enlace URL automático**
 Si no desea que una URL se vincule automáticamente, puede eliminar el vínculo indicando la URL como código con acentos graves.
 
-Esta tecla:
+Esta tecla:       
 ![Acento_grrave](/IMG/acento_grave.jpg "Acento grave")       
 Como es una tecla que espera un caracter para mostrar el caracter acentuado tendremos que presionarla dos veces para que se muestre el acento en solitario.     
 
