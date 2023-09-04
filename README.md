@@ -59,7 +59,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Listas de tareas](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/listadetareas.md)
 
-* Emoji
+* [Emoji](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/emoji.md)
 
 * Destacar
 
