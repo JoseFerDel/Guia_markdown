@@ -727,7 +727,7 @@ Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto c
 				
 ## **Emojis de símbolos**				
 **Descripción**	|	Emoji	|	Shortcode
-----	|	----	|	----
+----	|	:----:	|	----
 **Uno**	|	:one:	|	`:one:`
 **Dos**	|	:two:	|	`:two:`
 **Tres**	|	:three:	|	`:three:`
