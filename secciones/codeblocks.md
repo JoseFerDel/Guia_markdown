@@ -36,7 +36,7 @@ El el terminal escribe \`vim\`.		|	En el terminal escribe \<code\>vim\<\/code\>	
 
 ## **Escapar acentos graves**
 
-Si la palabra o frase que desea indicar como código incluye uno o más **acentos graves** \`, puede escaparlos encerrando la palabra o frase entre acentos graves **dobles** `` ` ``.          
+Si la palabra o frase que desea indicar como código incluye uno o más **acentos graves** ``` ` ```, puede escaparlos encerrando la palabra o frase entre acentos graves **dobles** `` `` ``.          
 
 
 Markdown						|	HTML								|	Salida renderizada	
@@ -54,10 +54,12 @@ Así:
 ```     
 1. Abre el archivo.      
 2. Encuentra el siguiente bloque de código en la línea 26:       
+
 		<html>     
 			<head>     
 			</head>     
 		</html>      
+
 3. Actualiza el titulo para que coincida con el nombre de la página.     
 ```      
 
