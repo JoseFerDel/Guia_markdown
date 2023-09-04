@@ -30,7 +30,7 @@ Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto c
 
 
 
-**Descripción**	|	Shortcode	|	Emoji
+**Descripción**	|	Emoji	|	Shortcode
 ----	|	----	|	----
 **Pajarita**	|	:bowtie:	|	`:bowtie:`
 **Ronreír**	|	:smile:	|	`:smile:`
@@ -229,7 +229,7 @@ Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto c
 				
 				
 ## **Emojis de naturaleza**				
-**Descripción**	|	Shortcode	|	Emoji
+**Descripción**	|	Emoji	|	Shortcode
 ----	|	----	|	----
 **Soleado**	|	:sunny:	|	`:sunny:`
 **Paraguas**	|	:umbrella:	|	`:umbrella:`
@@ -349,7 +349,7 @@ Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto c
 				
 				
 ## **Emojis de objetos**				
-**Descripción**	|	Shortcode	|	Emoji
+**Descripción**	|	Emoji	|	Shortcode
 ----	|	----	|	----
 **Bambú**	|	:bamboo:	|	`:bamboo:`
 **Corazón de regalo**	|	:gift_heart:	|	`:gift_heart:`
@@ -613,7 +613,7 @@ Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto c
 				
 				
 ## **Emojis de lugares**				
-**Descripción**	|	Shortcode	|	Emoji
+**Descripción**	|	Emoji	|	Shortcode
 ----	|	----	|	----
 **Casa**	|	:house:	|	`:house:`
 **Casa con jardín**	|	:house_with_garden:	|	`:house_with_garden:`
@@ -724,7 +724,7 @@ Esta es la lista completa de emojis y emoticonos disponibles en Markdown junto c
 				
 				
 ## **Emojis de símbolos**				
-**Descripción**	|	Shortcode	|	Emoji
+**Descripción**	|	Emoji	|	Shortcode
 ----	|	----	|	----
 **Uno**	|	:one:	|	`:one:`
 **Dos**	|	:two:	|	`:two:`
