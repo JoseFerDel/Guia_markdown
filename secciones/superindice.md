@@ -10,6 +10,4 @@ Para crear un **superíndice**, utilice un símbolo circunflejo `^` antes y desp
 Ejemplo:
 `X^2^`
 
-La salida renderizada quedaría así:
-
-X^2^
+**NOTA:** Github no reconoce los superíndices.

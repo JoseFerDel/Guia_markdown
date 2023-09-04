@@ -11,15 +11,15 @@ Ejemplo:
 `H~2~O`
 
 La salida renderizada quedaría así:
-
 H~2~O
 
+Esto parece tener el mismo efecto que tachar `H~~2~~O`
+H~~2~~O
 
-Alternativamente, si su aplicación **Markdown** admite **HTML**, puede usar la etiqueta sub **HTML**.
+Alternativamente, si su aplicación **Markdown** admite **HTML**, puede usar la etiqueta sub **HTML**.    
 `H<sub>2</sub>O`
 
 La salida renderizada serí en este caso sería esta:
-
 H<sub>2</sub>O
 
 
