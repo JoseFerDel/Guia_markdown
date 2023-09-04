@@ -61,7 +61,7 @@ Guia sobre el lenguaje de marcado Markdown.
 
 * [Emoji](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/emoji.md)
 
-* Destacar
+* [Destacar](https://github.com/JoseFerDel/Guia_markdown/blob/Zet_main/secciones/destacar.md)
 
 * Subíndice
 
