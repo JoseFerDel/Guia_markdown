@@ -4,7 +4,6 @@
 # **Bloques de código**
 
 Para crear bloques de código, sangra cada línea del bloque con al menos **cuatro espacios** o una **tabulación**.
-![codeblocks_01](/IMG/codeblocks_01.jpg "Bloques de código")
 
 Así:
 ```
@@ -15,7 +14,6 @@ Así:
 ```
 
 La salida renderizada se ve así:   
-![codeblocks_02](/IMG/codeblocks_02.jpg "Salida renderizada")   
 
 	<html>
 		<head>
@@ -33,19 +31,18 @@ Para indicar una palabra o frase como código, escríbala entre **acentos graves
 
 Markdown				|	HTML							|	Salida renderizada
 ----					|	----							|	----
-\`\`El el terminal escribe \`vim\`.\`\`	|	\`En el terminal escribe \<code\>vim\<\/code\>\`	|	En el terminal escribe 'vim'
+El el terminal escribe \`vim\`.		|	En el terminal escribe \<code\>vim\<\/code\>		|	En el terminal escribe `vim`
 				
 
 
 ## **Escapar comillas invertidas**
 
-Si la palabra o frase que desea indicar como código incluye uno o más **acentos graves** \`, puede escaparla encerrando la palabra o frase entre acentos graves dobles \( **\`\`** \).      
-![codeblocks_04](/IMG/codeblocks_04.jpg "Escapar acentos abiertos")
+Si la palabra o frase que desea indicar como código incluye uno o más **acentos graves** \`, puede escaparlos encerrando la palabra o frase entre acentos graves **dobles** `` ` ``..      
 
 
-Markdown						|	HTML						|	Salida renderizada	
-----							|	----						|	----
-\`\`Utiliza \`código\` en tu archivo Markdown.\`\`	|	Utiliza `código` en tu archivo Markdown.	|	``Utiliza `código` en tu archivo Markdown.``
+Markdown						|	HTML								|	Salida renderizada	
+----							|	----								|	----
+\`\`Utiliza \`código\` en tu archivo Markdown.\`\`	|	\<code\>Utiliza `código` en tu archivo Markdown.\<\/code\>	|	``Utiliza `código` en tu archivo Markdown.``
 
 
 
@@ -53,7 +50,6 @@ Markdown						|	HTML						|	Salida renderizada
 ## **Código en listas**
 
 Los **bloques de código** normalmente tienen una sangría de **cuatro espacios** o **una tabulación**. Cuando estén en una **lista**, sangra **ocho espacios** o **dos tabulaciones**.
-![codeblocks_05](/IMG/codeblocks_05.jpg "Código en listas")
 
 Así:     
 ```     
@@ -75,10 +71,3 @@ La salida renderizada quedaría así:
 			</head>     
 		</html>      
 3. Actualiza el titulo para que coincida con el nombre de la página.     
-
-
-
-
-La salida renderizada se ve así:
-![codeblocks_06](/IMG/codeblocks_06.jpg "Salida renderizada")
-
