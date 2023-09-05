@@ -3,40 +3,86 @@
 
 # **Citas**
 
-Para aplicar el **formato de cita**, agregue el caraácter mayor que \(**\>**\) delante de un párrafo.
-![citas_01](/IMG/citas_01.jpg "Crear cita")
+Para aplicar el **formato de cita**, agregue el caraácter mayor que `>` delante de un párrafo.    
+`> No por mucho tempranar amanece más madruga`
 
 La salida renderizada se ve así:
-![citas_02](/IMG/citas_02.jpg "Salida renderizada")
-
+> No por mucho tempranar amanece más madruga.
 
 ## **Citas con varios párrafos**
 
-Las **citas** pueden contener **varios párrafos**. Agregue un signo **mayor que** \(**\>**\) en las líneas en blanco entre los párrafos.
-![citas_03](/IMG/citas_03.jpg "Citas con varios párrafos")
+Las **citas** pueden contener **varios párrafos**. Agrega un signo **mayor que** (`>`) en las líneas en blanco entre los párrafos:
+
+```
+> No por mucho temporanar amanece más madruga.
+>
+> El sol tiene cuatro mil quinientos millones de años.
+```
 
 La salida renderizada se ve así:
-![citas_04](/IMG/citas_04.jpg "Salida renderizada")
 
+> No por mucho temporanar amanece más madruga.
+>
+> El sol tiene cuatro mil quinientos millones de años.
 
 ## **Citas anidadas**
-Las **citas** se pueden anidar. Agregue dos signos **mayor que \(**\>\>**\) delante del párrafo que desea anidar.
-![citas_05](/IMG/citas_05.jpg "Citas anidadas")
+Las **citas** se pueden anidar. Agrega dos signos **mayor que** ( `>>`) delante del párrafo que desea anidar.
+
+```
+> No por mucho temporanar amanece más madruga.
+>
+>> El sol tiene cuatro mil quinientos millones de años.
+```
 
 La salida renderizada se ve así:
-![citas_06](/IMG/citas_06.jpg "Salida renderizada")
+
+> No por mucho temporanar amanece más madruga.
+>
+>> El sol tiene cuatro mil quinientos millones de años.
 
 
 ## **Citas con otros elementos**
 
 Las **citas** pueden contener **otros elementos** formateados en **Markdown**. 
 No se pueden utilizar todos los elementos; deberá experimentar para ver cuáles funcionan.
-![citas_07](/IMG/citas_07.jpg "Citas con otros elementos")
+
+```
+> ## Esta cita está quedando genial.
+> 
+> - Punto uno
+> - Punto dos
+>
+> **Me encanta** que los planes salgan bien.
+```
 
 La salida renderizada se ve así:
-![citas_08](/IMG/citas_08.jpg "Salida renderizada")
+
+> ## Esta cita está quedando genial.
+> 
+> - Punto uno
+> - Punto dos
+>
+> **Me encanta** que los planes salgan bien.
+
 
 ## **Buenas prácticas con citas**
 
 Por compatibilidad, coloque **líneas en blanco** antes y después de las comillas en bloque.
-![citas_09](/IMG/citas_09.jpg "Buenas prácticas")
+
+## Haz esto
+```
+Intenta poner lineas en blanco antes...     
+                                            
+> Esto es una cita.                         
+                                            
+... y después de la cita.                                     
+```
+    
+    
+## No hagas esto
+
+```
+Sin la línea en blanco esto no se ve bien.
+> Esto es a una cita.
+No lo hagas.
+```
