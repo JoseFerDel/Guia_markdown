@@ -52,6 +52,14 @@ Y en HTML así:
 ``` 
 <a href="#id-encabezado">Texto de ejemplo</a>
 ```
+Para que los enlaces a id de encabezado funcionen deben estar lo suficientemente lejos unos de los otros, alargaré está página con unas imagenes random para que se vea bien como funcionan.
+
+![Gato](/IMG/gato_cielo.jpeg "Gato")
+
+![Gato](/IMG/Pixel_cell.gif "Gato")
+
+![Gato](/IMG/Gato_capucha.jpg "Gato")
+
 
 La salida renderizada del código **Markdown** sería esta:
 
@@ -61,5 +69,4 @@ Y la salida renderizada del código HTML sería esta:
 
 <a href="#id-encabezado">Texto de ejemplo</a> 
 
-**NOTA:**
-En Github estos links no hacen nada pero si utilizamos un editor Markdown que acepte los id de encabezado, Github no los acepta, al hacer clic en el enlace nos moverá a la parte del texto donde se encuentra el id indicado.
+Si hacemos clic en estos enlaces, y este se encuentra lo suficientemente lejos del id de encabezado indicado más arriba (`### Mi gran encabezado{id-encabezado}`), entonces saltaremos a la parte del texto que contiene el id.
