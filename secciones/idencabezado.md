@@ -60,3 +60,6 @@ La salida renderizada del código **Markdown** sería esta:
 Y la salida renderizada del código HTML sería esta:   
 
 <a href="#id-encabezado">Texto de ejemplo</a> 
+
+**NOTA:**
+En Github estos links no hacen nada pero si utilizamos un editor Markdown que acepte los id de encabezado, Github no los acepta, al hacer clic en el enlace nos moverá a la parte del texto donde se encuentra el id indicado.
