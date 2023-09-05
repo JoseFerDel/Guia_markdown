@@ -22,7 +22,7 @@ Esto miso en **HTML** se vería así:
 
 La salida renderizada del código **Markdown** sería esta:
 
-### Mi gran encabezado{id-encabezado"}
+### Mi gran encabezado{id-encabezado}
 
 
 **NOTA:** Parece que Github no reconoce las id de encabezado de Markdown.
