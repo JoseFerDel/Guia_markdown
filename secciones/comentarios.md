@@ -8,3 +8,36 @@ Para usarlas encierra el texto que es un comentario entre **<!--** y **-->**
 ![Comentarios](/IMG/comentarios.jpg "Ejemplo de comentario")
 
 Los comentarios no serán interpretados por **Markdown** ni se renderizarán con el resto del texto, son solo notas.
+
+
+## Por ejemplo:
+
+
+```
+# esto es el título
+
+Esto es cualquier texto.
+
+<!--
+Esto es un comantario.
+Y esto también
+-->
+
+Y esto también es cualquier texto.
+```
+
+La salida renderizada sería esta:
+
+
+# Esto es el título
+
+Esto es cualquier texto.
+
+<!--
+Esto es un comantario.
+Y esto también
+-->
+
+Y esto también es cualquier texto.
+
+

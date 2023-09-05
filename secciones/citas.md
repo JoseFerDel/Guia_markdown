@@ -11,7 +11,7 @@ La salida renderizada se ve así:
 
 ## **Citas con varios párrafos**
 
-Las **citas** pueden contener **varios párrafos**. Agrega un signo **mayor que** (`>`) en las líneas en blanco entre los párrafos:
+Las **citas** pueden contener **varios párrafos**. Agrega un signo **mayor que** `>` en las líneas en blanco entre los párrafos:
 
 ```
 > No por mucho temporanar amanece más madruga.
@@ -26,7 +26,7 @@ La salida renderizada se ve así:
 > El sol tiene cuatro mil quinientos millones de años.
 
 ## **Citas anidadas**
-Las **citas** se pueden anidar. Agrega dos signos **mayor que** ( `>>`) delante del párrafo que desea anidar.
+Las **citas** se pueden anidar. Agrega dos signos **mayor que** `>>` delante del párrafo que desea anidar.
 
 ```
 > No por mucho temporanar amanece más madruga.
