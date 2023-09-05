@@ -22,7 +22,7 @@ Lo siguiente es una imagen:
 La salida renderizada sería esta:
 
 Lo siguiente es una imagen:     
-![Formas_cell](/IMG/Cell_formas.png)
+![Formas_cell](/IMG/Markdown/Cell_formas.png)
 
 
 Opcionalmente, puede agregar un título entre comillas después de la ruta o URL.
@@ -33,7 +33,7 @@ Opcionalmente, puede agregar un título entre comillas después de la ruta o URL
 El texto final entre comillas se verá al pasar el puntero del mouse por encima de la imagen.
 
 La salida renderizada se ve así:
-![Imagenes_03](/IMG/Imagenes_03.jpg "Imagen con título")
+![Imagenes_03](/IMG/Markdown/Imagenes_03.jpg "Imagen con título")
 
 
 Imagenes con vinculos 
@@ -44,7 +44,7 @@ Para agregar un enlace a una imagen, incluya el código **Markdown** de la image
 ```
 
 La salida renderizada se ve así:
-[![Imagenes_04](/IMG/Imagenes_04.jpg "Imagenes con vinculos")](https://t.ly/BdY68)   
+[![Imagenes_04](/IMG/Markdown/Imagenes_04.jpg "Imagenes con vinculos")](https://t.ly/BdY68)   
 Si hacemos clic en la imagen nos llevará a la web **https://www.flickr.com**
 
 Markdown no permtie especificar la alineación de una imagen, para hacerlo nos apoyaremos en el código HTML:

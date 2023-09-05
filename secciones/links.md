@@ -135,9 +135,9 @@ El equivalente de este ejemplo en HTML sería así:
 Las aplicaciones de **Markdown** no se ponen de acuerdo sobre cómo manejar los espacios en medio de una **URL**. 
 Para mayor compatibilidad, intente codificar cualquier espacio en la URL con **\%20**. 
 Alternativamente, si su aplicación **Markdown** admite **HTML**, puede usar la etiqueta HTML `a href=`.
-![links_12](/IMG/links_12.jpg "Buenas prácticas 01")
+![links_12](/IMG/Markdown/links_12.jpg "Buenas prácticas 01")
 
 Los **paréntesis** en medio de una URL también pueden resultar problemáticos. 
-Para mayor compatibilidad, intente codificar en la URL el **paréntesis** de apertura ( **\(** ) con `%28` y el paréntesis de cierre ( **\)** ) con `%29`.
+Para mayor compatibilidad, intente codificar en la URL el **paréntesis** de apertura (`(`) con `%28` y el paréntesis de cierre (`)`) con `%29`.
  
 Alternativamente, si tu aplicación **Markdown** admite **HTML**, puede usar la etiqueta HTML `a href=`.

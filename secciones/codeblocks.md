@@ -28,6 +28,9 @@ La salida renderizada se ve así:
 
 Para indicar una palabra o frase como código, escríbala entre **acentos graves** ``` ` ```.
 
+Los acentos graves son los que aparecen al punsar esta tecla:
+![Acento_grrave](/IMG/Markdown/acento_grave.jpg "Acento grave") 
+
 Markdown				|	HTML							|	Salida renderizada
 ----					|	----							|	----
 El el terminal escribe \`vim\`.		|	En el terminal escribe \<code\>vim\<\/code\>		|	En el terminal escribe `vim`

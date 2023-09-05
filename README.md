@@ -1,10 +1,9 @@
-
 # **Guia Markdown**
 ---
 Guia sobre el lenguaje de marcado Markdown.    
 (Esta guia está basada en guia que podemos encontrar en la [web de Markdown](https://www.markdownguide.org/ "https://www.markdownguide.org/"))
 
-
+![MD_logo](/IMG/Markdown/MD_logo.jpeg "Markdown")
 
 # **ÍNDICE**
 

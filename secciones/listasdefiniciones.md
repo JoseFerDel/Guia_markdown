@@ -41,12 +41,13 @@ En HTML se escribiría así:
 ```
 
 Y la salida renderizada en HTML sería esta:   
-<dl>   
-    <dt>Primer termino</dt>   
-    <dd>Esta es la definición del primer termino</dd>   
-    <dt>Segundo termino<dt>   
-    <dd>Esta es una definición del segundo termino</dd>   
-    <dd>Esta es otra definición para el segundo termino</dd>   
-</dl>   
+> <dl>   
+>     <dt>Primer termino</dt>   
+>     <dd>Esta es la definición del primer termino</dd>   
+>     <dt>Segundo termino<dt>   
+>     <dd>Esta es una definición del segundo termino</dd>   
+>     <dd>Esta es otra definición para el segundo termino</dd>   
+> </dl>   
 
-NOTA: Github reconoce correctamente las listas de definiciones en formato HTML pero no las de Markdown.
+### **NOTA:** 
+**Github** reconoce correctamente las listas de definiciones en formato **HTML** pero no las de **Markdown**.

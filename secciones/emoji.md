@@ -5,9 +5,9 @@
 
 Hay dos formas de agregar **emoji** a archivos **Markdown**: 
 
-copiar y pegar el emoji en su texto con formato Markdown 
-o 
-escribir códigos cortos de emoji.
+copiar y pegar el emoji en su texto con formato Markdown     
+o     
+escribir códigos cortos de emoji.    
 
 
 ## **Usando códigos cortos de Emoji**

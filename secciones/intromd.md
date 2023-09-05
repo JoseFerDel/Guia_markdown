@@ -1,7 +1,7 @@
 [ÍNDICE](https://github.com/Zet0699/Guia_markdown/blob/Zet_main/README.md)
 
 
-![MD_logo](/IMG/MD_logo.jpeg "Markdown")
+
 
 # MARKDOWN
 
@@ -11,7 +11,7 @@ Usar **Markdown** es diferente a usar un editor **WYSIWYG** (**W**hat **Y**ou **
 
 Por ejemplo, para indicar un encabezado, agrega una almohadilla antes (p. ej., **# Encabezado uno**). O bien, para poner una frase en negrita, agregue dos asteriscos antes y después (por ejemplo, **\*\*este texto está en negrita\*\***). Puede que le lleve un tiempo acostumbrarse a ver la **sintaxis de Markdown** en su texto, especialmente si está acostumbrado a las aplicaciones **WYSIWYG**. La siguiente captura de pantalla muestra un archivo Markdown que se muestra en el editor de texto de Visual Studio Code.
 
-![Ejemplo Markdown](/IMG/Ej_markdown.jpg "Ejemplo Markdown")
+![Ejemplo Markdown](/IMG/Markdown/Ej_markdown.jpg "Ejemplo Markdown")
 
 Puede agregar elementos de formato **Markdown** a un archivo de texto sin formato utilizando una aplicación de edición de texto. O puede utilizar una de las muchas aplicaciones **Markdown** para los sistemas operativos **macOS**, **Windows**, **Linux**, **iOS** y **Android**. También existen varias aplicaciones basadas en web diseñadas específicamente para escribir en **Markdown**.
 

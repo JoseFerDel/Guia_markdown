@@ -54,11 +54,11 @@ Y en HTML así:
 ```
 Para que los enlaces a id de encabezado funcionen deben estar lo suficientemente lejos unos de los otros, alargaré está página con unas imagenes random para que se vea bien como funcionan.
 
-![Gato](/IMG/gato_cielo.jpeg "Gato")
+![Gato](/IMG/Markdown/gato_cielo.jpeg "Gato")
 
-![Gato](/IMG/Pixel_cell.gif "Gato")
+![Gato](/IMG/Markdown/Pixel_cell.gif "Gato")
 
-![Gato](/IMG/Gato_capucha.jpg "Gato")
+![Gato](/IMG/Markdown/Gato_capucha.jpg "Gato")
 
 
 La salida renderizada del código **Markdown** sería esta:
