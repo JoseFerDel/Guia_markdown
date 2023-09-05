@@ -49,4 +49,4 @@ Y la salida renderizada en HTML sería esta:
     <dd>Esta es otra definición para el segundo termino</dd>   
 </dl>   
 
-NOTA: Github reconoce correctamente las listas de definiciones en formato HTML.
+NOTA: Github reconoce correctamente las listas de definiciones en formato HTML pero no las de Markdown.

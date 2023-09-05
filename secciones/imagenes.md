@@ -10,14 +10,23 @@ La forma más básica de insertar una imagen con **Markdown** es introducir el s
 ![Descripción](ruta_de_la_imagen)
 ```
 
-Por ejemplo si escribimos un código con esa sintaxis en el punto 2 de esta lista:
-![Imagenes_01](/IMG/Imagenes_01.jpg "Ejemplo")
+Por ejemplo:
 
-La salida renderizada se ve así:
-![Imagenes_02](/IMG/Imagenes_02.jpg "Salida renderizada")
+Si escibimos este código:
+
+```
+Lo siguiente es una imagen:
+![Formas_cell](/IMG/Cell_formas.png)
+```
+
+La salida renderizada sería esta:
+
+Lo siguiente es una imagen:     
+![Formas_cell](/IMG/Cell_formas.png)
 
 
 Opcionalmente, puede agregar un título entre comillas después de la ruta o URL.
+
 ```
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ```
